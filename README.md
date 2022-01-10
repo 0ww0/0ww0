@@ -1,4 +1,4 @@
-## Hi there :wave:
+# Hi there :wave:
 My name is Wan Ahmad Shah (waswar/0ww0) and I'm a Frontend Web Developer based in Kuala Lumpur, Malaysia.
 Currently aiming to be a Full Stack (Laravel/Vuejs) Web Development.
 

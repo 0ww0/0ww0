@@ -1,6 +1,6 @@
 ## Hi there :wave:
 My name is Wan Ahmad Shah (waswar/0ww0) and I'm a Frontend Web Developer based in Kuala Lumpur, Malaysia.
-Currently aiming to be a Full Stack (Laravel/Vuejs) Web Development
+Currently aiming to be a Full Stack (Laravel/Vuejs) Web Development.
 
 ## :computer: Technologies and Tools
 
@@ -19,3 +19,6 @@ Currently aiming to be a Full Stack (Laravel/Vuejs) Web Development
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+## :sparkles: Contact Me
+You can contact me at ![https://www.linkedin.com/in/waswar/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)

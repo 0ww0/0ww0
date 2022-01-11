@@ -1,3 +1,5 @@
+<img width="100" src="https://raw.githubusercontent.com/0ww0/0ww0/main/assets/logo.svg" />
+
 # Hi there :wave:
 My name is Wan Ahmad Shah (waswar/0ww0) and I'm a Frontend Web Developer based in Kuala Lumpur, Malaysia.
 Currently aiming to be a Full Stack (Laravel/Vuejs) Web Development.
